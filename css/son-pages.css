@@ -1,0 +1,54 @@
+*{
+  font-family: "微軟正黑體";
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
+.header {
+    margin: 0;
+}
+.header h2{
+  font-size: 36px;
+}
+.header h2 a{
+  color: black;
+}
+.header h2 a:hover{
+  color: #737373;
+}
+
+.social-icons {
+    font-size: 30px;
+}
+.contact-me {
+    list-style: none;
+    margin-top: 15%;
+}
+.contact-me li {
+    display: inline-block;
+    padding: 5px;
+}
+.page-main .content{
+  text-align: center;
+  padding: 50px 0;
+  line-height: 30px;
+}
+.page-end{
+  width: 100%;
+  background: #ffebcc;
+  height: 250px;
+}
+.page-end{
+  text-align: center;
+}
+.page-end ul{
+  list-style: none;
+  padding: 50px 0 0 0;
+  font-size: 14px;
+}
+.copyright{
+  font-weight: normal;
+}
